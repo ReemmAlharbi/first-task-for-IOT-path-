@@ -2,7 +2,7 @@
 so you will see here 2 tasks that is for the IOT path :
 ***
 **FISRT ONE** :
-# 
+# How to use wisdom ESP 32s.pdf 
 -here you can see a web page that convert the speech into a text , the speciale thimg about it is that it is in arabic .
 *** 
 **SECOND ONE** :
